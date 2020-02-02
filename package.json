@@ -1,0 +1,27 @@
+{
+  "name": "httpserverproj",
+  "version": "1.0.0",
+  "description": " Creating test server for handling Requests and Responses via Postman",
+  "main": "server.js",
+  "scripts": {
+    "test": "just test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhiroMusikyan/httpServerProj.git"
+  },
+  "keywords": [
+    "Node",
+    "App",
+    "Test"
+  ],
+  "author": "Zhirayr Musikyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhiroMusikyan/httpServerProj/issues"
+  },
+  "homepage": "https://github.com/ZhiroMusikyan/httpServerProj#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
